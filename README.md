@@ -1,1 +1,1 @@
-This is the repository for the my rails blog app.
+This is the repository for my rails blog app.
